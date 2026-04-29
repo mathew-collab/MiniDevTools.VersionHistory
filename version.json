@@ -3,9 +3,9 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.2.1",
-            "description": "The foundational architecture powering the MiniDevTools ecosystem. Core delivers a unified UI Toolkit master stylesheet, one-click Git release automation, and a custom animated notification engine to keep your entire studio perfectly in sync.",
-            "isUrgent": false,
+            "latestVersion": "0.2.4",
+            "description": "Established a secure connection with the version.json file in git",
+            "isUrgent": true,
             "icon": "Icon_Core"
         },
         {
