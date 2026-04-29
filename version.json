@@ -1,0 +1,44 @@
+{
+    "packages": [
+        {
+            "packageId": "com.minidevtools.core",
+            "displayName": "Core",
+            "latestVersion": "0.2.1",
+            "description": "The foundational architecture powering the MiniDevTools ecosystem. Core delivers a unified UI Toolkit master stylesheet, one-click Git release automation, and a custom animated notification engine to keep your entire studio perfectly in sync.",
+            "isUrgent": false,
+            "icon": "Icon_Core"
+        },
+        {
+            "packageId": "com.minidevtools.datamanager",
+            "displayName": "Data Manager",
+            "latestVersion": "2.0.1",
+            "description": "The Data Manager by MiniDevTools acts as the core of any game. \nOffering a modular profiling system to categorise dynamic data sets within miniature profiles with full control over input and output.",
+            "isUrgent": false,
+            "icon": "Icon_DataManager"
+        },
+        {
+            "packageId": "com.minidevtools.mobileecosystem",
+            "displayName": "Mobile Ecosystem Manager",
+            "latestVersion": "1.0.1",
+            "description": "A decoupled, event-driven platform manager for achievements and leaderboards.",
+            "isUrgent": false,
+            "icon": "Icon_MobileEcosystem"
+        },
+        {
+            "packageId": "com.minidevtools.shaderlibrary",
+            "displayName": "Shader Library",
+            "latestVersion": "1.0.2",
+            "description": "A premium vault of high-performance shaders and rendering utilities. The Shader Library centralizes your studio's visual materials, providing a sleek gallery interface for rapid iteration, consistent art direction, and stunning graphical fidelity.",
+            "isUrgent": false,
+            "icon": "Icon_ShaderLibrary"
+        },
+        {
+            "packageId": "com.minidevtools.uicomposer",
+            "displayName": "UI Composer",
+            "latestVersion": "0.1.0",
+            "description": "A high-performance, node-based UI orchestration framework. Effortlessly manage aspect ratio snapshots, safe zones, and curve-driven transitions with a zero-garbage API.",
+            "isUrgent": false,
+            "icon": "Icon_UIComposer"
+        }
+    ]
+}
