@@ -3,9 +3,9 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.2.4",
-            "description": "Established a secure connection with the version.json file in git",
-            "isUrgent": true,
+            "latestVersion": "0.2.5",
+            "description": "Added more icons and twekaed the notification handler",
+            "isUrgent": false,
             "icon": "Icon_Core"
         },
         {
