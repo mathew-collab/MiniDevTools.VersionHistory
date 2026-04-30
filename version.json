@@ -35,8 +35,8 @@
         {
             "packageId": "com.minidevtools.uicomposer",
             "displayName": "UI Composer",
-            "latestVersion": "0.1.0",
-            "description": "A high-performance, node-based UI orchestration framework. Effortlessly manage aspect ratio snapshots, safe zones, and curve-driven transitions with a zero-garbage API.",
+            "latestVersion": "0.1.1",
+            "description": "Full foundation complete - working on animations",
             "isUrgent": false,
             "icon": "Icon_UIComposer"
         }
