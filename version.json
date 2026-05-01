@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.2.5",
-            "description": "Added more icons and twekaed the notification handler",
+            "latestVersion": "0.2.6",
+            "description": "Actually fixed the notifications now",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
