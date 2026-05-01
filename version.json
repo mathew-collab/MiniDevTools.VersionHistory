@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.2.6",
-            "description": "Actually fixed the notifications now",
+            "latestVersion": "0.2.7",
+            "description": "Adjusting Notification Settings...",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
