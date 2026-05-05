@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.2.7",
-            "description": "Adjusting Notification Settings...",
+            "latestVersion": "0.2.8",
+            "description": "Introduced new icons",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
