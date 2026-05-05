@@ -35,8 +35,8 @@
         {
             "packageId": "com.minidevtools.uicomposer",
             "displayName": "UI Composer",
-            "latestVersion": "0.1.1",
-            "description": "Full foundation complete - working on animations",
+            "latestVersion": "0.2.0",
+            "description": "A complete overhaul to the UI Composer:\n- Scene overlay tools\n- Custom animation editor\n- heavy scene optimisation for lazy loading\n- custom function nodes for hubs, events, branches and bookmarks",
             "isUrgent": false,
             "icon": "Icon_UIComposer"
         }
