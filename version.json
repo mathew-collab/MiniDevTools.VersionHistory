@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.2.9",
-            "description": "Introduced a close icon",
+            "latestVersion": "0.2.10",
+            "description": "Introduced custom hierarchy dividers",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
