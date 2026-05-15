@@ -39,6 +39,14 @@
             "description": "Polished over some bugs and added a close editor button to the scene UI",
             "isUrgent": false,
             "icon": "Icon_UIComposer"
+        },
+        {
+            "packageId": "com.minidevtools.audiodirector",
+            "displayName": "com.minidevtools.audiodirector",
+            "latestVersion": "0.0.1",
+            "description": "Tweaked and fixed the SFX audio visualizer so it moves when you press play.",
+            "isUrgent": false,
+            "icon": "Icon_AudioWaves"
         }
     ]
 }
