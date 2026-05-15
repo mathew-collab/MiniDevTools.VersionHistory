@@ -27,8 +27,8 @@
         {
             "packageId": "com.minidevtools.shaderlibrary",
             "displayName": "Shader Library",
-            "latestVersion": "1.0.2",
-            "description": "A premium vault of high-performance shaders and rendering utilities. The Shader Library centralizes your studio's visual materials, providing a sleek gallery interface for rapid iteration, consistent art direction, and stunning graphical fidelity.",
+            "latestVersion": "1.1.0",
+            "description": "Introduced heavily commented functions/variables.",
             "isUrgent": false,
             "icon": "Icon_ShaderLibrary"
         },
