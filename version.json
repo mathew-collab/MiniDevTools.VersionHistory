@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.2.10",
-            "description": "Introduced custom hierarchy dividers",
+            "latestVersion": "0.2.11",
+            "description": "Added more icons for the Audio Director tool",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
