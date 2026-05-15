@@ -43,8 +43,8 @@
         {
             "packageId": "com.minidevtools.audiodirector",
             "displayName": "com.minidevtools.audiodirector",
-            "latestVersion": "0.0.1",
-            "description": "Tweaked and fixed the SFX audio visualizer so it moves when you press play.",
+            "latestVersion": "0.1.0",
+            "description": "Introduced heavy commenting for functions/variables.",
             "isUrgent": false,
             "icon": "Icon_AudioWaves"
         }
