@@ -35,8 +35,8 @@
         {
             "packageId": "com.minidevtools.uicomposer",
             "displayName": "UI Composer",
-            "latestVersion": "0.2.1",
-            "description": "Polished over some bugs and added a close editor button to the scene UI",
+            "latestVersion": "0.3.0",
+            "description": "Introduced heavily commented functions/variables.",
             "isUrgent": false,
             "icon": "Icon_UIComposer"
         },
