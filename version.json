@@ -11,8 +11,8 @@
         {
             "packageId": "com.minidevtools.datamanager",
             "displayName": "Data Manager",
-            "latestVersion": "2.0.1",
-            "description": "The Data Manager by MiniDevTools acts as the core of any game. \nOffering a modular profiling system to categorise dynamic data sets within miniature profiles with full control over input and output.",
+            "latestVersion": "2.1.0",
+            "description": "Introduced heavy commenting for functions/variables.",
             "isUrgent": false,
             "icon": "Icon_DataManager"
         },
