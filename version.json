@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.3.1",
-            "description": "Testing the introduction of a README",
+            "latestVersion": "0.3.2",
+            "description": "Formatted the README.md",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
