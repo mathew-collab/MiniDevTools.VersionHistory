@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.3.2",
-            "description": "Formatted the README.md",
+            "latestVersion": "0.3.3",
+            "description": "UPDATED THE REMOTE_JSON_URL",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
