@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.3.0",
-            "description": "Introduced heavy commenting on every accessible function/variable in the whole tool",
+            "latestVersion": "0.3.1",
+            "description": "Testing the introduction of a README",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
