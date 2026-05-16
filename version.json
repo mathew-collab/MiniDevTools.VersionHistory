@@ -43,8 +43,8 @@
         {
             "packageId": "com.minidevtools.audiodirector",
             "displayName": "com.minidevtools.audiodirector",
-            "latestVersion": "0.1.1",
-            "description": "Introduced a README.md",
+            "latestVersion": "0.1.2",
+            "description": "Adjusted the README.md",
             "isUrgent": false,
             "icon": "Icon_AudioWaves"
         }
