@@ -19,8 +19,8 @@
         {
             "packageId": "com.minidevtools.mobileecosystem",
             "displayName": "Mobile Ecosystem Manager",
-            "latestVersion": "1.1.0",
-            "description": "Introduced heavily commented functions/variables.",
+            "latestVersion": "1.1.1",
+            "description": "Introduced a README.md",
             "isUrgent": false,
             "icon": "Icon_MobileEcosystem"
         },
