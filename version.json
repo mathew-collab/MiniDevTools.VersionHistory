@@ -43,8 +43,8 @@
         {
             "packageId": "com.minidevtools.audiodirector",
             "displayName": "com.minidevtools.audiodirector",
-            "latestVersion": "0.1.0",
-            "description": "Introduced heavy commenting for functions/variables.",
+            "latestVersion": "0.1.1",
+            "description": "Introduced a README.md",
             "isUrgent": false,
             "icon": "Icon_AudioWaves"
         }
