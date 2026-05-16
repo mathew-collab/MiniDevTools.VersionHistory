@@ -11,8 +11,8 @@
         {
             "packageId": "com.minidevtools.datamanager",
             "displayName": "Data Manager",
-            "latestVersion": "2.1.0",
-            "description": "Introduced heavy commenting for functions/variables.",
+            "latestVersion": "2.1.1",
+            "description": "Introduced a README.md",
             "isUrgent": false,
             "icon": "Icon_DataManager"
         },
