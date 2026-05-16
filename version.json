@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.3.4",
-            "description": "Adjusted the REMOTE_JSON_URL",
+            "latestVersion": "0.3.5",
+            "description": "Updated the GetLocalPackageVersion Method",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
