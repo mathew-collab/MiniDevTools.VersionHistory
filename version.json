@@ -27,8 +27,8 @@
         {
             "packageId": "com.minidevtools.shaderlibrary",
             "displayName": "Shader Library",
-            "latestVersion": "1.1.0",
-            "description": "Introduced heavily commented functions/variables.",
+            "latestVersion": "1.1.1",
+            "description": "CLANKER!",
             "isUrgent": false,
             "icon": "Icon_ShaderLibrary"
         },
