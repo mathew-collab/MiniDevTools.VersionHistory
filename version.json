@@ -19,8 +19,8 @@
         {
             "packageId": "com.minidevtools.mobileecosystem",
             "displayName": "Mobile Ecosystem Manager",
-            "latestVersion": "1.1.2",
-            "description": "Updated the README.md",
+            "latestVersion": "1.2.0",
+            "description": "Introduced heavy optimisation and edge-case fixes for player progression. Additionally introducing encryption into our achievement/ leaderboard values.",
             "isUrgent": false,
             "icon": "Icon_MobileEcosystem"
         },
