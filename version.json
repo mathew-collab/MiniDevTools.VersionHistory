@@ -27,8 +27,8 @@
         {
             "packageId": "com.minidevtools.shaderlibrary",
             "displayName": "Shader Library",
-            "latestVersion": "1.1.1",
-            "description": "CLANKER!",
+            "latestVersion": "1.1.2",
+            "description": "Tweaked backend settings provider code",
             "isUrgent": false,
             "icon": "Icon_ShaderLibrary"
         },
