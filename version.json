@@ -3,9 +3,9 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.3.6",
-            "description": "Updated GetLocalPackageVersion again",
-            "isUrgent": false,
+            "latestVersion": "0.3.7",
+            "description": "Removed settings deadlock",
+            "isUrgent": true,
             "icon": "Icon_Core"
         },
         {
