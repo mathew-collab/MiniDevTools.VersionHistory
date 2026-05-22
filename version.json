@@ -11,9 +11,9 @@
         {
             "packageId": "com.minidevtools.datamanager",
             "displayName": "Data Manager",
-            "latestVersion": "2.1.3",
-            "description": "Migration hotfix and legacy dependency reinstated for failed transitions",
-            "isUrgent": true,
+            "latestVersion": "2.1.4",
+            "description": "Fixed some minor bugs relating to asynchronous operations cancelling on the closure of the device",
+            "isUrgent": false,
             "icon": "Icon_DataManager"
         },
         {
