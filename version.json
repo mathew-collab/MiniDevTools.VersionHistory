@@ -47,6 +47,14 @@
             "description": "Adjusted the README.md",
             "isUrgent": false,
             "icon": "Icon_AudioWaves"
+        },
+        {
+            "packageId": "com.minidevtools.spriteforge",
+            "displayName": "com.minidevtools.spriteforge",
+            "latestVersion": "0.1.0",
+            "description": "The first working version of SpriteForge!",
+            "isUrgent": false,
+            "icon": "Icon_SpriteForge"
         }
     ]
 }
