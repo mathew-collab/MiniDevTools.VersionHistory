@@ -3,9 +3,9 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.3.7",
-            "description": "Removed settings deadlock",
-            "isUrgent": true,
+            "latestVersion": "0.3.8",
+            "description": "Added a build configuration button",
+            "isUrgent": false,
             "icon": "Icon_Core"
         },
         {
