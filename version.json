@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.3.8",
-            "description": "Added a build configuration button",
+            "latestVersion": "0.3.9",
+            "description": "Adjusted the parent folder for the build script",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
