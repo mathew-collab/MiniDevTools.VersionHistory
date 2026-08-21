@@ -35,8 +35,8 @@
         {
             "packageId": "com.minidevtools.uicomposer",
             "displayName": "UI Composer",
-            "latestVersion": "0.3.0",
-            "description": "Introduced heavily commented functions/variables.",
+            "latestVersion": "0.4.0",
+            "description": "Major update introducing dynamic UI screen shake, rounded images and UI Particles!",
             "isUrgent": false,
             "icon": "Icon_UIComposer"
         },
