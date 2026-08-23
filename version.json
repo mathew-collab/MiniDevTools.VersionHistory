@@ -51,8 +51,8 @@
         {
             "packageId": "com.minidevtools.spriteforge",
             "displayName": "com.minidevtools.spriteforge",
-            "latestVersion": "0.1.0",
-            "description": "The first working version of SpriteForge!",
+            "latestVersion": "0.1.1",
+            "description": "Working on the extended functionality of sockets",
             "isUrgent": false,
             "icon": "Icon_SpriteForge"
         }
