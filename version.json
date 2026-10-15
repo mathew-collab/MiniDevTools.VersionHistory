@@ -51,8 +51,8 @@
         {
             "packageId": "com.minidevtools.spriteforge",
             "displayName": "com.minidevtools.spriteforge",
-            "latestVersion": "1.0.2",
-            "description": "Introduced tweaks to support the Physics module (darkening of pages and isolation mode for the simulator)",
+            "latestVersion": "1.0.3",
+            "description": "Last minute UI hotfix before working on the FX module",
             "isUrgent": false,
             "icon": "Icon_SpriteForge"
         }
