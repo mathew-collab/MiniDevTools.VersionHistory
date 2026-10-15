@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.4.0",
-            "description": "Introduced a namespace-based script organisation tool.",
+            "latestVersion": "0.4.1",
+            "description": "Introduced a clean filter for Sprite Forge modules to not clog up the package publisher.",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
