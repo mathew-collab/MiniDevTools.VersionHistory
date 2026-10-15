@@ -51,8 +51,8 @@
         {
             "packageId": "com.minidevtools.spriteforge",
             "displayName": "com.minidevtools.spriteforge",
-            "latestVersion": "1.0.0",
-            "description": "Full release to 1.0 as the first working version",
+            "latestVersion": "1.0.1",
+            "description": "Tweaked the Sprite Forge Hub to mimic the Package Publisher but only for the extension modules.",
             "isUrgent": false,
             "icon": "Icon_SpriteForge"
         }
