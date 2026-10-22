@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.4.1",
-            "description": "Introduced a clean filter for Sprite Forge modules to not clog up the package publisher.",
+            "latestVersion": "0.5.0",
+            "description": "Overhauled the settings UI for the Command Center",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
