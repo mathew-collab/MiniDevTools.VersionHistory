@@ -27,8 +27,8 @@
         {
             "packageId": "com.minidevtools.shaderlibrary",
             "displayName": "Shader Library",
-            "latestVersion": "1.1.2",
-            "description": "Tweaked backend settings provider code",
+            "latestVersion": "2.0.0",
+            "description": "Introduced tons of new shader family variants, completely overhauled the UI and improved the settings page to go along with it!",
             "isUrgent": false,
             "icon": "Icon_ShaderLibrary"
         },
