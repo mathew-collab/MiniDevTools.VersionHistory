@@ -11,8 +11,8 @@
         {
             "packageId": "com.minidevtools.datamanager",
             "displayName": "Data Manager",
-            "latestVersion": "2.1.4",
-            "description": "Fixed some minor bugs relating to asynchronous operations cancelling on the closure of the device",
+            "latestVersion": "2.2.0",
+            "description": "Introduced a Table View and fixed some of the UI quirks from the previous version (focus on monochrome more)",
             "isUrgent": false,
             "icon": "Icon_DataManager"
         },
