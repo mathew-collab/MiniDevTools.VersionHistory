@@ -51,8 +51,8 @@
         {
             "packageId": "com.minidevtools.spriteforge",
             "displayName": "com.minidevtools.spriteforge",
-            "latestVersion": "1.0.3",
-            "description": "Last minute UI hotfix before working on the FX module",
+            "latestVersion": "1.1.0",
+            "description": "UI Overhaul to bring the tool up to the standards of the rest!",
             "isUrgent": false,
             "icon": "Icon_SpriteForge"
         }
