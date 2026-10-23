@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.5.1",
-            "description": "Introduced new icons for the Audio Director",
+            "latestVersion": "1.0.0",
+            "description": "The first version of the MiniDevTools Suite is now available! This is the resources update to the Core package that combines everything together perfectly.",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
