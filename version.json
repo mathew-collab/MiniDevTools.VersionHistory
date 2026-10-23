@@ -43,8 +43,8 @@
         {
             "packageId": "com.minidevtools.audiodirector",
             "displayName": "com.minidevtools.audiodirector",
-            "latestVersion": "0.1.2",
-            "description": "Adjusted the README.md",
+            "latestVersion": "1.0.0",
+            "description": "Full completed Audio Director version 1 with an overhauled Ui experience and a ton of fixed bugs from the previous patches.",
             "isUrgent": false,
             "icon": "Icon_AudioWaves"
         },
