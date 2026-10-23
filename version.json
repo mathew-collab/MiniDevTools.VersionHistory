@@ -3,8 +3,8 @@
         {
             "packageId": "com.minidevtools.core",
             "displayName": "Core",
-            "latestVersion": "0.5.0",
-            "description": "Overhauled the settings UI for the Command Center",
+            "latestVersion": "0.5.1",
+            "description": "Introduced new icons for the Audio Director",
             "isUrgent": false,
             "icon": "Icon_Core"
         },
